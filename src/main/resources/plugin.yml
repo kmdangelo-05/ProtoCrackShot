@@ -1,0 +1,4 @@
+name: ProtoCrackShot
+version: '1.0'
+main: me.titanet.kmdangelo.protoCrackShot.ProtoCrackShot
+api-version: '1.21'
