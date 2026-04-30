@@ -1,1 +1,13 @@
 Weapons:
+  Motosega:
+    name: "&2&lMotosega"
+    lore:
+      - "&4Una possente Motosega!"
+      - "&4Tasto sinistro per colpire!"
+
+    damage: 4
+Commands:
+
+
+
+
